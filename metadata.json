@@ -1,0 +1,7 @@
+{
+  "name": "Valentine's For Tyra",
+  "description": "A fun and interactive Valentine's Day invitation for Tyra with a 'no' button she can't catch and a gallery of memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
