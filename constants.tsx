@@ -17,7 +17,7 @@ export const MEMORIES: Memory[] = [
   {
     id: 3,
     imageUrl: '/your-photo-6.jpg',
-    message: "My baby always.",
+    message: "My baby always. There's nothing like you and I",
     effect: "sunflowers"
   },
   {

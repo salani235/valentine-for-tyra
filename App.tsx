@@ -75,7 +75,7 @@ const App: React.FC = () => {
                   
                   {selectedMemory.isSpicy && (
                     <div className="absolute bottom-4 left-4 bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold animate-pulse">
-                      HOT! 🔥
+                      Only you! 🔥
                     </div>
                   )}
                 </div>
@@ -98,7 +98,7 @@ const App: React.FC = () => {
                     className={`mt-6 w-full py-4 rounded-xl font-bold transition shadow-lg 
                       ${selectedMemory.isSpicy ? 'bg-red-600 hover:bg-red-700 text-white tracking-widest' : 'bg-pink-500 hover:bg-pink-600 text-white'}`}
                   >
-                    {selectedMemory.isSpicy ? "DAMN... 🔥" : "Beautiful!"}
+                    {selectedMemory.isSpicy ? "I WANT YOU" : "ALL MINE"}
                   </button>
                 </div>
               </div>
